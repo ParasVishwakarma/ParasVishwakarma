@@ -1,16 +1,51 @@
-## Hi there 👋
+# 👋 Hi, I'm Paras Vishwakarma
 
-<!--
-**ParasVishwakarma/ParasVishwakarma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BE Computer Engineering Student (SPPU)
+💻 Aspiring Software Engineer | Full Stack Developer | NLP Enthusiast
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+* 🔭 Working on **JAVA Full Stack & SprinBoot**
+* 🌱 Learning **Java, DSA, System Design**
+* 💡 Interested in **Web Development & AI**
+
+
+---
+
+## 🛠️ Tech Stack
+
+* 💻 Java, Python, JavaScript
+* 🌐 HTML, CSS, Tailwind, Node.js
+* 🗄️ MySQL, MongoDB
+* 🤖 NLP: NLTK, TF-IDF, Word2Vec, Transformers
+* ⚙️ Git, GitHub
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 NLP Practicals
+
+👉 https://github.com/ParasVishwakarma/SPPU-NLP-Practicals
+
+### 🔹 Real Estate Management System
+
+👉 https://github.com/ParasVishwakarma/Real-Estate-Management-System
+
+### 🔹 Zomato Clone (Frontend + Backend)
+
+👉 https://github.com/ParasVishwakarma/Simple-Zomato-clone
+👉 https://github.com/ParasVishwakarma/zomato-clone-backend
+
+---
+
+## 📫 Contact
+
+* 📧 [vishwakarmaparas12@gmail.com](mailto:vishwakarmaparas12@gmail.com)
+* 💼 https://www.linkedin.com/in/paras-vishwakarma-225140239
+
+---
+
+⭐ Always learning & building
