@@ -1,51 +1,59 @@
 # 👋 Hi, I'm Paras Vishwakarma
 
 🎓 BE Computer Engineering Student (SPPU)
-💻 Aspiring Software Engineer | Full Stack Developer | NLP Enthusiast
+💻 Aspiring Software Engineer | Full Stack Developer 
 
 ---
 
 ## 🚀 About Me
 
-* 🔭 Working on **JAVA Full Stack & SprinBoot**
-* 🌱 Learning **Java, DSA, System Design**
-* 💡 Interested in **Web Development & AI**
+* 🔭 Currently working on **Java Full Stack & Spring Boot**
+* 🌱 Learning **Java, DSA, and System Design**
+* 💡 Interested in **Web Development & Artificial Intelligence**
 
 
 ---
 
 ## 🛠️ Tech Stack
 
-* 💻 Java, Python, JavaScript
-* 🌐 HTML, CSS, Tailwind, Node.js
-* 🗄️ MySQL, MongoDB
-* 🤖 NLP: NLTK, TF-IDF, Word2Vec, Transformers
-* ⚙️ Git, GitHub
+* 💻 Languages: Java, Python, JavaScript
+* 🌐 Web: HTML, CSS, Tailwind CSS, Node.js
+* 🗄️ Databases: MySQL, MongoDB
+* 🤖 NLP/AI: NLTK, TF-IDF, Word2Vec, Transformers
+* ⚙️ Tools: Git, GitHub, VS Code
 
 ---
 
 ## 📌 Featured Projects
 
-### 🔹 NLP Practicals
+### 🔹 NLP Practicals (SPPU)
 
-👉 https://github.com/ParasVishwakarma/SPPU-NLP-Practicals
+* End-to-end NLP pipeline (Preprocessing → TF-IDF → Word2Vec → Transformer)
+* Built Transformer from scratch using PyTorch
+  👉 https://github.com/ParasVishwakarma/SPPU-NLP-Practicals
+
+---
 
 ### 🔹 Real Estate Management System
 
-👉 https://github.com/ParasVishwakarma/Real-Estate-Management-System
+* Responsive web application for property listing and search
+  👉 https://github.com/ParasVishwakarma/Real-Estate-Management-System
+
+---
 
 ### 🔹 Zomato Clone (Frontend + Backend)
 
-👉 https://github.com/ParasVishwakarma/Simple-Zomato-clone
-👉 https://github.com/ParasVishwakarma/zomato-clone-backend
+* Food ordering UI + backend integration
+  👉 https://github.com/ParasVishwakarma/Simple-Zomato-clone
+  👉 https://github.com/ParasVishwakarma/zomato-clone-backend
 
 ---
 
 ## 📫 Contact
 
-* 📧 [vishwakarmaparas12@gmail.com](mailto:vishwakarmaparas12@gmail.com)
-* 💼 https://www.linkedin.com/in/paras-vishwakarma-225140239
+* 📧 Email: [vishwakarmaparas12@gmail.com](mailto:vishwakarmaparas12@gmail.com)
+* 💼 LinkedIn: https://www.linkedin.com/in/paras-vishwakarma-225140239
 
 ---
 
-⭐ Always learning & building
+⭐ *Always learning, building, and improving*
