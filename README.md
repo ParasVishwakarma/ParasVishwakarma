@@ -1,30 +1,30 @@
-# 👋 Hi, I'm Paras Vishwakarma
+# Hi, I'm Paras Vishwakarma
 
-🎓 BE Computer Engineering Student (SPPU)
-💻 Aspiring Software Engineer | Full Stack Developer 
-
----
-
-## 🚀 About Me
-
-* 🔭 Currently working on **Java Full Stack & Spring Boot**
-* 🌱 Learning **Java, DSA, and System Design**
-* 💡 Interested in **Web Development & Artificial Intelligence**
-
+ BE Computer Engineering Student (SPPU)
+ Aspiring Software Engineer | Full Stack Developer 
 
 ---
 
-## 🛠️ Tech Stack
+## About Me
 
-* 💻 Languages: Java, Python, JavaScript
-* 🌐 Web: HTML, CSS, Tailwind CSS, Node.js
-* 🗄️ Databases: MySQL, MongoDB
-* 🤖 NLP/AI: NLTK, TF-IDF, Word2Vec, Transformers
-* ⚙️ Tools: Git, GitHub, VS Code
+*  Currently working on **Java Full Stack & Spring Boot**
+*  Learning **Java, DSA, and System Design**
+*  Interested in **Web Development & Artificial Intelligence**
+
 
 ---
 
-## 📌 Featured Projects
+##  Tech Stack
+
+*  Languages: Java, Python, JavaScript
+*  Web: HTML, CSS, Tailwind CSS, Node.js
+*  Databases: MySQL, MongoDB
+*  NLP/AI: NLTK, TF-IDF, Word2Vec, Transformers
+*  Tools: Git, GitHub, VS Code
+
+---
+
+##  Featured Projects
 
 ### 🔹 NLP Practicals (SPPU)
 
@@ -49,11 +49,11 @@
 
 ---
 
-## 📫 Contact
+##  Contact
 
-* 📧 Email: [vishwakarmaparas12@gmail.com](mailto:vishwakarmaparas12@gmail.com)
-* 💼 LinkedIn: https://www.linkedin.com/in/paras-vishwakarma-225140239
+*  Email: [vishwakarmaparas12@gmail.com](mailto:vishwakarmaparas12@gmail.com)
+* LinkedIn: https://www.linkedin.com/in/paras-vishwakarma-225140239
 
 ---
 
-⭐ *Always learning, building, and improving*
+ *Always learning, building, and improving*
